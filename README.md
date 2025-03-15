@@ -3,6 +3,8 @@
 
 **Author:** Shubham Singh  
 **Course:** Data Science Bootcamp, upGrad  
+The dataset can be downloaded using this link: [Credit Card Fraud Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
 
 ## Table of Contents  
 - [Introduction](#introduction)  
