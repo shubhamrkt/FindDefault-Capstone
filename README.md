@@ -110,15 +110,7 @@ In this analysis, we performed a comprehensive exploration and modeling process 
 
 Overall, this analysis has provided a **robust framework for credit card fraud detection**. The insights gained from **feature correlations and model evaluations** will be instrumental in refining our approach and improving detection capabilities. **Future work** could involve **fine-tuning models further, experimenting with additional features, and exploring other advanced techniques** for handling imbalanced data.  
 
----
 
-### **Markdown Formatting Used in the README:**
-- `#` → **Main Heading (H1)**  
-- `##` → **Subheading (H2)**  
-- `###` → **Smaller Subheading (H3)**  
-- `**Bold Text**` → **Bold**  
-- `-` → **Bullet Points**  
-- `[Link Text](#section-name)` → **Internal Links to Sections**  
 
 
 
